@@ -160,11 +160,12 @@ This project was developed for the **IBM Python Project for Data Science** (Cour
 ---
 
 ### Tesla — Price vs Revenue
-
-<img width="700" height="900" alt="tesla" src="https://github.com/user-attachments/assets/8d6f2c04-91b2-430a-b1d6-afda87d81ec4" />
-
+<p align="center">
+<img width="700" height="900" alt="tesla" src="https://github.com/user-attachments/assets/168af618-a912-4a57-9ab4-0eb79c7645de" />
+</p>
 
 ### GameStop — Price vs Revenue
-<img width="700" height="900" alt="gamestop" src="https://github.com/user-attachments/assets/7d4947ea-a272-4573-a036-087acfe1b5b5" />
-
+<p align="center">
+<img width="700" height="900" alt="gamestop" src="https://github.com/user-attachments/assets/26b8c6ed-7068-4d2b-b7be-8ea6148dd870" />
+ </p>
 
