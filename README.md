@@ -161,15 +161,14 @@ make_graph(stock_data, revenue_data, "Tesla")
 ## 📉 Visual Results
 
 ### Tesla — Price vs Revenue
-<p align="center">
-<img width="650"  alt="tesla" src="https://github.com/user-attachments/assets/168af618-a912-4a57-9ab4-0eb79c7645de" />
+<p align="center">  
+  <img src="images/tesla.png" alt="Tesla Chart" width="650">  
 </p>
 
-
-### GameStop — Price vs Revenue
-<p align="center">
-<img width="650" alt="gamestop" src="https://github.com/user-attachments/assets/26b8c6ed-7068-4d2b-b7be-8ea6148dd870" />
- </p>
+### GameStop — Price vs Revenue  
+<p align="center">  
+  <img src="images/gamestop.png" alt="GameStop Chart" width="650">  
+</p>
 
 ---
 
