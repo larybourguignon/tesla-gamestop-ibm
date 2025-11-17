@@ -183,6 +183,10 @@ This project is open-source. You may add an MIT License if preferred.
 
 ---
 
+**Live Notebook:** [Visualize interativamente](https://larybourguignon.github.io/tesla-gamestop-ibm/)
+
+---
+
 ## 👩‍💻 Author
 
 **Larissa Bourguignon**  
