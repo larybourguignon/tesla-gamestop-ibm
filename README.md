@@ -5,6 +5,8 @@ A clean and professional financial analysis using Python, web scraping, and inte
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larybourguignon/tesla-gamestop-ibm/blob/main/Final.ipynb)
 
+**Live Notebook:** [Visualize interativamente](https://larybourguignon.github.io/tesla-gamestop-ibm/)
+
 ### IBM – Python Project for Data Science
 
 This repository contains a complete data analysis project focusing on **Tesla (TSLA)** and **GameStop (GME)**.  
@@ -121,7 +123,7 @@ BeautifulSoup(html, "html.parser")
 ### Data Cleaning
 Revenue values were cleaned with:
 ```
-df["Revenue"] = df["Revenue"].str.replace(',|$', '', regex=True)
+df["Revenue"] = df["Revenue"].str.replace(',|\$', '', regex=True)
 ```
 
 
@@ -178,12 +180,9 @@ Feel free to open issues or submit pull requests.
 
 ---
 
+
 ## 📄 License  
-This project is open-source. You may add an MIT License if preferred.
-
----
-
-**Live Notebook:** [Visualize interativamente](https://larybourguignon.github.io/tesla-gamestop-ibm/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -195,3 +194,4 @@ Data Science Student
 GitHub: [@larybourguignon](https://github.com/larybourguignon)
 
 ---
+
